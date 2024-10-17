@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### _Olá,_ I’m Eduardo! 👋
 
-I’m a common man who’s a Catholic and a husband. I work for a tech company as a senior mobile security engineer. My job's about security engineering, coding Android and iOS application security mechanisms and reverse engineering. I absolutely love building stuff, especially when I can literally get my hands dirty. Apart from building and sometimes reversing software, I also enjoy carrying out electronics and woodworking projects, reading, exercising and camping.
+I'm a common man who’s a Catholic and a husband. I work for a research institute as a master application security architect. Apart from building and sometimes reversing software, I also enjoy carrying out woodworking projects, reading, sharpening knives, lifting, swimming and camping.
 
 Here you'll find a small portion of the stuff I've built over the years. 
 
