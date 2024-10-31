@@ -10,14 +10,10 @@
 
 ## Tech Stack 
 
-- Backend:
-    - Django, FastAPI;
-- Frontend:
-    - React, Bootstrap;
-- Database:
-    - PostgreSQL, SQLite, MongoDB;
-- Other:
-    - Android, Android NDK, GitLab CI/CD, Docker, AWS.
+- Backend: Django, FastAPI;
+- Frontend: React, Bootstrap;
+- Database: PostgreSQL, SQLite, MongoDB;
+- Other: Android, Android NDK, GitLab CI/CD, Docker, AWS.
 
 ## Application Security Skills
 
