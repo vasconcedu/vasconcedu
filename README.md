@@ -1,6 +1,6 @@
-# Hello, I'm Eduardo Vasconcelos!
+# Hello, I'm Edu Vasconcelos!
 
-**My job is to craft software that’s secure, stunning, and built to last.**
+**I craft software that’s secure, stunning, and built to last.**
 
 ## Currently... 
 
