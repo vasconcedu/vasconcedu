@@ -1,30 +1,28 @@
-<!-- ### Hi there 👋 -->
+# Hello, I'm Eduardo Vasconcelos!
 
-<!--
-**vasconcedu/vasconcedu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**My job is to craft software that’s secure, stunning, and built to last.**
 
-Here are some ideas to get you started:
+## Currently... 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :closed_lock_with_key: I'm an Application Security Architect at <a href="https://www.sidi.org.br/en/" target="_blank">SiDi;</a>
+- :books: I'm pursuing a Master's in Computer Science at the University of Sao Paulo;
+- :seedling: I'm working on expanding my expertise in cloud security, and brushing up my full stack development skills.
 
-### _Olá,_ I’m Eduardo! 👋
+## Tech Stack 
 
-I'm a common man who’s a Catholic and a husband. I work for a research institute as a master application security architect. Apart from building and sometimes reversing software, I also enjoy carrying out woodworking projects, reading, sharpening knives, lifting, swimming and camping.
+- Backend:
+    - Django, FastAPI;
+- Frontend:
+    - React, Bootstrap;
+- Database:
+    - PostgreSQL, SQLite, MongoDB;
+- Other:
+    - Android, Android NDK, GitLab CI/CD, Docker, AWS.
 
-Here you'll find a small portion of the stuff I've built over the years. 
+## Application Security Skills
 
-You can also check out [my personal blog,](https://vasconcedu.github.io/) where I digress about all that and more.
-
-Or you might be looking for [my resume,](https://vasconcedu.github.io/resume/) where you'll find a whole bunch of information about my career and my academic background, as well as my contact information and a couple of social media links.
-
-:point_left::point_left::point_left:
- You can also reach me via the links in my bio!
- 
+- Threat Modeling;
+- Security Engineering;
+- Security Testing;
+- Reverse Engineering;
+- Security Awareness.
