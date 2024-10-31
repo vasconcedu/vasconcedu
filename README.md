@@ -8,13 +8,6 @@
 - :books: I'm pursuing a Master's in Computer Science at the University of Sao Paulo (USP);
 - :seedling: I'm working on expanding my expertise in cloud security, and brushing up my full stack development skills.
 
-## Tech Stack 
-
-- Backend: Django, FastAPI;
-- Frontend: React, Bootstrap;
-- Database: PostgreSQL, SQLite, MongoDB;
-- Other: Android, Android NDK, GitLab CI/CD, Docker, AWS.
-
 ## Application Security Skills
 
 - Threat Modeling;
@@ -24,3 +17,10 @@
 - Security Code Review;
 - Reverse Engineering;
 - Security Awareness.
+
+## Tech Stack 
+
+- Backend: Django, FastAPI;
+- Frontend: React, Bootstrap;
+- Database: PostgreSQL, SQLite, MongoDB;
+- Other: Android, Android NDK, GitLab CI/CD, Docker, AWS.
