@@ -20,5 +20,7 @@
 - Threat Modeling;
 - Security Engineering;
 - Security Testing;
+- Vulnerability Assessment;
+- Security Code Review;
 - Reverse Engineering;
 - Security Awareness.
