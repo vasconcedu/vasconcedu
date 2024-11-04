@@ -1,4 +1,4 @@
-# Hello, I'm Edu Vasconcelos!
+# Hello, I'm Eduardo Vasconcelos!
 
 **My job is to craft software that’s secure, stunning, and built to last.**
 
@@ -8,17 +8,23 @@
 - :books: I'm pursuing a Master's in Computer Science at the University of Sao Paulo (USP);
 - :seedling: I'm working on expanding my expertise in cloud security, and brushing up my full stack development skills.
 
-## Application Security Skills
+## My Application Security Skills
 
-- Threat Modeling;
-- Security Engineering;
-- Security Testing;
-- Vulnerability Assessment;
-- Security Code Review;
-- Reverse Engineering;
-- Security Awareness.
+- Advanced:
+  - Threat Modeling;
+  - Security Engineering;
+  - Penetration Testing;
+  - Vulnerability Assessment;
+  - Security Code Review;
+- Intermediate:
+  - Security Awareness;
+  - Reverse Engineering;
+  - Cryptography;
+- Familiar:
+  - DevSecOps;
+  - Incident Response.
 
-## Tech Stack 
+## My Tech Stack 
 
 - Backend: Django, FastAPI;
 - Frontend: React, Bootstrap;
