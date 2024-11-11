@@ -29,4 +29,4 @@ My job is to craft software that’s secure, stunning, and built to last.
 - Backend: Django, FastAPI;
 - Frontend: React, Bootstrap;
 - Database: PostgreSQL, SQLite, MongoDB;
-- Other: Android, Android NDK, GitLab CI/CD, Docker, AWS.
+- Other: Android (Java, Kotlin), Android NDK (C/C++), GitLab CI/CD, Docker, AWS.
