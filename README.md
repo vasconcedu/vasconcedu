@@ -4,9 +4,10 @@ My job is to craft software that’s secure, stunning, and built to last.
 
 ## Currently... 
 
-- :briefcase: I'm an Application Security Architect at <a href="https://www.sidi.org.br/en/" target="_blank">SiDi</a> and a Technical Instructor at <a href="https://www.sp.senai.br/" target="_blank">SENAI</a>;
-- :books: I hold an MSc in Computer Science from the University of Sao Paulo (USP);
-- :seedling: I'm working on expanding my expertise in Linux internals and brushing up my low-level development skills in C.
+- 💼 I'm an Application Security Architect at <a href="https://www.sidi.org.br/en/" target="_blank">SiDi</a> and a Technical Instructor at <a href="https://www.sp.senai.br/" target="_blank">SENAI</a>;
+- 📚 I hold a BEng in Computer Engineering and an MSc in Computer Science, both from the University of Sao Paulo (USP);
+- ❤️ I'm always working on expanding and honing my expertise in Linux;
+- 🌱 I'm brushing up my low-level development skills in C.
 
 ## My Application Security Skills
 
